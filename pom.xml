@@ -13,6 +13,7 @@
         <module>spring-jdbc</module>
         <module>spring-websocket</module>
         <module>spring-security</module>
+        <module>spring-security-second</module>
     </modules>
 
     <build>
